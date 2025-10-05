@@ -1,0 +1,31 @@
+img{
+    max-width: 2500px;
+    height: 350px;
+}
+h1{
+    font: 24px Arial, sans-serif;
+    color: rgb(0, 0, 241);
+}
+
+h2{
+    font: 20px Arial, sans-serif;
+    color: #0000ff
+}
+h3{
+    font: 16px Arial, sans-serif;
+    color: rgb(0, 89, 124);
+    font-weight: bold; 
+}   
+
+p{ 
+    color: #4D4D4D 
+}
+
+#Eerste_p {
+    color: #4D4D4D;
+    font-weight: bold;
+}
+a{
+    color:#8A2BE2;
+    text-decoration: none;
+}
