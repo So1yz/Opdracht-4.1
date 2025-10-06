@@ -5,6 +5,8 @@ img{
 h1{
     font: 24px Arial, sans-serif;
     color: rgb(0, 0, 241);
+    font-style: italic;
+    font-weight: bold;
 }
 
 h2{
@@ -29,3 +31,4 @@ a{
     color:#8A2BE2;
     text-decoration: none;
 }
+
